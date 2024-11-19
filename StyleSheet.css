@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+div{
+    text-align: center;
+    font-size: 32px;
+}
+
+div button{
+    padding-inline: 50px;
+    padding-block: 25px;
+    background-color: blanchedalmond;
+}   
+div button:hover{
+    background-color: blueviolet;
+}
